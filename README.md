@@ -1,2 +1,2 @@
-# praisepass-preview
+# praisepass
 PraisePass password manager - live preview
